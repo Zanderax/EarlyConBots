@@ -34,4 +34,6 @@ recipe.ingredients = {{"iron-plate",10}}
 recipe.result = "early-roboport"
 
 data:extend{earlyRoboportItem,recipe}
-data:extend{earlyRoboportEntity}
+
+-- TODO: Add cheaper roboport entity
+-- data:extend{earlyRoboportEntity}
