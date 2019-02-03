@@ -1,0 +1,11 @@
+{
+    "name": "EarlyConBots",
+    "version": "0.1.0",
+    "title": "Early Con Bots",
+    "author": "You",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "0.16",
+    "dependencies": ["base >= 0.16"],
+    "description": "This mod adds in a recipie for early consutruction bots."
+}
